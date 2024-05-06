@@ -1,7 +1,12 @@
 [
 	{
 	"url": "https://barracas.paxservicos.com.br/apiJPA",
-	"logo": "https://raw.githubusercontent.com/otaviogrrd/barracas/master/img/barracas_pax.png",
+	"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/barracas_pax.png",
 	"nome": "Treinamento PAX"
+	},
+	{
+		"url": "https://imaculadaconceicao.paxservicos.com.br/apiJPA",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/imaculadaconceicao_app.png",
+		"nome": "Concurso de Forró"
 	}
 ]
