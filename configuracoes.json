@@ -8,5 +8,10 @@
 		"url": "https://imaculadaconceicao.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/imaculadaconceicao_app.png",
 		"nome": "Concurso de Forró"
+	},
+	{
+		"url": "https://saojudastadeu.paxservicos.com.br/apiJPA",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/saojudastadeu.png",
+		"nome": "Arraiá da São Judas"
 	}
 ]
