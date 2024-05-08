@@ -1,13 +1,18 @@
 [
 	{
-		"url": "https://barracas.paxservicos.com.br/apiJPA",
-		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/barracas_pax.png",
-		"nome": "Treinamento PAX"
-	},
-	{
 		"url": "https://imaculadaconceicao.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/imaculadaconceicao_app.png",
 		"nome": "Concurso de Forró"
+	},
+	{
+		"url": "https://santocuradars.paxservicos.com.br/apiJPA",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/santocuradars.png",
+		"nome": "Seresta das Mães"
+	},	
+	{
+		"url": "https://sagradafamilia.paxservicos.com.br/apiJPA",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/sagradafamilia_app.png",
+		"nome": "Peixada das Famílias"
 	},
 	{
 		"url": "https://saojudastadeu.paxservicos.com.br/apiJPA",
@@ -15,18 +20,13 @@
 		"nome": "Arraiá da São Judas"
 	},
 	{
-		"url": "https://santocuradars.paxservicos.com.br/apiJPA",
-		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/santocuradars.png",
-		"nome": "Seresta das Mães"
-	},
-	{
-		"url": "https://sagradafamilia.paxservicos.com.br/apiJPA",
-		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/sagradafamilia_app.png",
-		"nome": "Peixada das Famílias"
-	},		
-	{
 		"url": "https://guadalupe.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/guadalupe.png",
 		"nome": "Arraiá da Guadá"
+	},
+	{
+		"url": "https://barracas.paxservicos.com.br/apiJPA",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/barracas_pax.png",
+		"nome": "Treinamento PAX"
 	}	
 ]
