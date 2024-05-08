@@ -13,5 +13,20 @@
 		"url": "https://saojudastadeu.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/saojudastadeu_app2.png",
 		"nome": "Arraiá da São Judas"
-	}
+	},
+	{
+		"url": "https://santocuradars.paxservicos.com.br/apiJPA",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/santocuradars.png",
+		"nome": "Seresta das Mães"
+	},
+	{
+		"url": "https://sagradafamilia.paxservicos.com.br/apiJPA",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/sagradafamilia_app.png",
+		"nome": "Peixada das Família"
+	},		
+	{
+		"url": "https://guadalupe.paxservicos.com.br/apiJPA",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/guadalupe.png",
+		"nome": "Arraiá da Guadá"
+	}	
 ]
