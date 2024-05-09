@@ -25,6 +25,11 @@
 		"nome": "Arraiá da Guadá"
 	},
 	{
+		"url": "https://catedralbrasilia.paxservicos.com.br/apiJPA",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/catedral_app.png",
+		"nome": "Festa Junina da Catedral"
+	},		
+	{
 		"url": "https://barracas.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/barracas_pax.png",
 		"nome": "Treinamento PAX"
