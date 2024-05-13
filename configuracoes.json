@@ -1,15 +1,5 @@
 [
 	{
-		"url": "https://imaculadaconceicao.paxservicos.com.br/apiJPA",
-		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/imaculadaconceicao_app.png",
-		"nome": "Imaculada Conceição"
-	},
-	{
-		"url": "https://santocuradars.paxservicos.com.br/apiJPA",
-		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/santocuradars.png",
-		"nome": "Seresta das Mães"
-	},	
-	{
 		"url": "https://sagradafamilia.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/sagradafamilia_app.png",
 		"nome": "Peixada das Famílias"
@@ -24,6 +14,16 @@
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/guadalupe.png",
 		"nome": "Arraiá da Guadá"
 	},
+	{
+		"url": "https://catedralbrasilia.paxservicos.com.br/apiJPA",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/catedralbrasilia_app.png",
+		"nome": "Quermesse - Catedral de Brasília"
+	},	
+	{
+		"url": "https://santocuradars.paxservicos.com.br/apiJPA",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/santocuradars.png",
+		"nome": "Seresta das Mães"
+	},		
 	{
 		"url": "https://barracas.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/barracas_pax.png",
