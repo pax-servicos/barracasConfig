@@ -15,6 +15,11 @@
 		"nome": "Arraiá da Guadá"
 	},
 	{
+		"url": "https://nossasenhoradasaude.paxservicos.com.br/apiJPA",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/nossasenhoradasaude_app.png",
+		"nome": "Festa Junina"
+	},	
+	{
 		"url": "https://catedralbrasilia.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/catedralbrasilia_app.png",
 		"nome": "Quermesse - Catedral de Brasília"
