@@ -5,6 +5,11 @@
 		"nome": "Peixada das Famílias"
 	},
 	{
+		"url": "https://santissimatrindade.paxservicos.com.br/apiJPA",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/santissimatrindade_app.png",
+		"nome": "Santíssima Trindade"
+	},
+	{
 		"url": "https://saojudastadeu.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/saojudastadeu_app2.png",
 		"nome": "Arraiá da São Judas"
