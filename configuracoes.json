@@ -1,10 +1,5 @@
 [
 	{
-		"url": "https://sagradafamilia.paxservicos.com.br/apiJPA",
-		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/sagradafamilia_app.png",
-		"nome": "Peixada das Famílias"
-	},
-	{
 		"url": "https://santissimatrindade.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/santissimatrindade_app.png",
 		"nome": "Santíssima Trindade"
@@ -28,7 +23,12 @@
 		"url": "https://catedralbrasilia.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/catedralbrasilia_app.png",
 		"nome": "Quermesse - Catedral de Brasília"
-	},	
+	},
+	{
+		"url": "https://sagradafamilia.paxservicos.com.br/apiJPA",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/sagradafamilia_app.png",
+		"nome": "Peixada das Famílias"
+	},		
 	{
 		"url": "https://santocuradars.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/santocuradars.png",
