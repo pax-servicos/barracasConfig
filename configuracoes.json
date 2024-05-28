@@ -15,6 +15,11 @@
 		"nome": "Quermesse - Catedral de Brasília"
 	},	
 	{
+		"url": "https://saojoaobatista.paxservicos.com.br/apiJPA",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/saojoaobatista_app.png",
+		"nome": "Arraiá São João Batista"
+	},	
+	{
 		"url": "https://nossasenhoradasgracas.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/nossasenhoradasgracas_app.png",
 		"nome": "Nsa Sra das Graças"
