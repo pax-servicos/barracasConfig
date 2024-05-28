@@ -15,6 +15,11 @@
 		"nome": "Quermesse - Catedral de Brasília"
 	},	
 	{
+		"url": "https://nossasenhoradasgracas.paxservicos.com.br/apiJPA",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/nossasenhoradasgracas_app.png",
+		"nome": "Nsa Sra das Graças"
+	},	
+	{
 		"url": "https://nossasenhoradasaude.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/nossasenhoradasaude_app3.png",
 		"nome": "Arraiá da Saúde"
