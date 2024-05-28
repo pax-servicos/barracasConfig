@@ -38,15 +38,15 @@
 		"url": "https://santissimatrindade.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/santissimatrindade_app.png",
 		"nome": "Santíssima Trindade"
-	},	
-	{
-		"url": "https://santocuradars.paxservicos.com.br/apiJPA",
-		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/santocuradars.png",
-		"nome": "Seresta das Mães"
-	},		
+	},
 	{
 		"url": "https://barracas.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/barracas_pax.png",
 		"nome": "Treinamento PAX"
-	}	
+	},			
+	{
+		"url": "https://santocuradars.paxservicos.com.br/apiJPA",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/santocuradars.png",
+		"nome": "Seresta das Mães"
+	}
 ]
