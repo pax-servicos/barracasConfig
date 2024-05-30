@@ -20,11 +20,6 @@
 		"nome": "Nsa Sra das Graças"
 	},	
 	{
-		"url": "https://saojoaobatista.paxservicos.com.br/apiJPA",
-		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/saojoaobatista_app.png",
-		"nome": "Arraiá São João Batista"
-	},	
-	{
 		"url": "https://nossasenhoradasaude.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/nossasenhoradasaude_app3.png",
 		"nome": "Arraiá da Saúde"
@@ -33,6 +28,11 @@
 		"url": "https://sagradafamilia.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/sagradafamilia_app.png",
 		"nome": "Peixada das Famílias"
+	},	
+	{
+		"url": "https://saojoaobatista.paxservicos.com.br/apiJPA",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/saojoaobatista_app.png",
+		"nome": "Arraiá São João Batista"
 	},		
 	{
 		"url": "https://santissimatrindade.paxservicos.com.br/apiJPA",
