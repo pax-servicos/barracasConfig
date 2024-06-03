@@ -18,7 +18,12 @@
 		"url": "https://nossasenhoradasgracas.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/nossasenhoradasgracas_app.png",
 		"nome": "Nsa Sra das Graças"
-	},	
+	},
+	{
+		"url": "https://casadoceara.paxservicos.com.br/apiJPA",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/casadoceara_app.png",
+		"nome": "Arraiá da Casa do Ceará"
+	},		
 	{
 		"url": "https://nossasenhoradasaude.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/nossasenhoradasaude_app3.png",
