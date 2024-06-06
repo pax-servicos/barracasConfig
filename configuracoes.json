@@ -10,6 +10,11 @@
 		"nome": "Arraiá da Casa do Ceará"
 	},		
 	{
+		"url": "https://liceu.paxservicos.com.br/apiJPA",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/liceu_app.png",
+		"nome": "Arraial do Colégio Liceu"
+	},			
+	{
 		"url": "https://nossasenhoradasaude.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/nossasenhoradasaude_app3.png",
 		"nome": "Arraiá da Saúde"
