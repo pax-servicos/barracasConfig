@@ -1,10 +1,5 @@
 [
 	{
-		"url": "https://nossasenhoradasgracas.paxservicos.com.br/apiJPA",
-		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/nossasenhoradasgracas_app.png",
-		"nome": "Nsa Sra das Graças"
-	},
-	{
 		"url": "https://casadoceara.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/casadoceara_app.png",
 		"nome": "Arraiá da Casa do Ceará"
@@ -30,20 +25,10 @@
 		"nome": "Arraiá São João Batista"
 	},		
 	{
-		"url": "https://santissimatrindade.paxservicos.com.br/apiJPA",
-		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/santissimatrindade_app.png",
-		"nome": "Santíssima Trindade"
-	},
-	{
 		"url": "https://barracas.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/barracas_pax.png",
 		"nome": "Treinamento PAX"
 	},			
-	{
-		"url": "https://santocuradars.paxservicos.com.br/apiJPA",
-		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/santocuradars.png",
-		"nome": "Seresta das Mães"
-	},
 	{
 		"url": "https://saojudastadeu.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/saojudastadeu_app2.png",
@@ -58,5 +43,10 @@
 		"url": "https://catedralbrasilia.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/catedralbrasilia_app.png",
 		"nome": "Quermesse - Catedral de Brasília"
-	}		
+	},
+	{
+		"url": "https://nossasenhoradasgracas.paxservicos.com.br/apiJPA",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/nossasenhoradasgracas_app.png",
+		"nome": "Nsa Sra das Graças"
+	}
 ]
