@@ -1,15 +1,5 @@
 [
 	{
-		"url": "https://casadoceara.paxservicos.com.br/apiJPA",
-		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/casadoceara_app.png",
-		"nome": "Arraiá da Casa do Ceará"
-	},		
-	{
-		"url": "https://liceubrasilia.paxservicos.com.br/apiJPA",
-		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/liceubrasilia_app.png",
-		"nome": "Arraial do Colégio Liceu"
-	},			
-	{
 		"url": "https://nossasenhoradasaude.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/nossasenhoradasaude_app3.png",
 		"nome": "Arraiá da Saúde"
@@ -18,11 +8,27 @@
 		"url": "https://sagradafamilia.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/sagradafamilia_app.png",
 		"nome": "Arraiá da Sagrada Família"
-	},			
+	},		
 	{
-		"url": "https://saojoaobatista.paxservicos.com.br/apiJPA",
-		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/saojoaobatista_app.png",
-		"nome": "Arraiá São João Batista"
+		"url": "https://cbmdf.paxservicos.com.br/apiJPA",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/cbmdf.png",
+		"nome": "Arraial dos Bombeiros"
+	},	
+	{
+		"url": "https://liceubrasilia.paxservicos.com.br/apiJPA",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/liceubrasilia_app.png",
+		"nome": "Arraial do Colégio Liceu"
+	},		
+	{
+		"url": "https://casadoceara.paxservicos.com.br/apiJPA",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/casadoceara_app.png",
+		"nome": "Arraiá da Casa do Ceará"
+	},		
+
+	{
+		"url": "https://nossasenhoraaparecidafercal.paxservicos.com.br/apiJPA",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/nossasenhoraaparecidafercal.png",
+		"nome": "Arraiá da Aparecida"
 	},		
 	{
 		"url": "https://barracas.paxservicos.com.br/apiJPA",
