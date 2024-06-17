@@ -15,17 +15,6 @@
 		"nome": "Arraiá da Capelania"
 	},	
 	{
-		"url": "https://liceubrasilia.paxservicos.com.br/apiJPA",
-		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/liceubrasilia_app.png",
-		"nome": "Arraial do Colégio Liceu"
-	},		
-	{
-		"url": "https://casadoceara.paxservicos.com.br/apiJPA",
-		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/casadoceara_app.png",
-		"nome": "Arraiá da Casa do Ceará"
-	},		
-
-	{
 		"url": "https://nossasenhoraaparecidafercal.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/nossasenhoraaparecidafercal.png",
 		"nome": "Arraiá da Aparecida"
@@ -35,6 +24,16 @@
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/barracas_pax.png",
 		"nome": "Treinamento PAX"
 	},			
+	{
+		"url": "https://liceubrasilia.paxservicos.com.br/apiJPA",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/liceubrasilia_app.png",
+		"nome": "Arraial do Colégio Liceu"
+	},		
+	{
+		"url": "https://casadoceara.paxservicos.com.br/apiJPA",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/casadoceara_app.png",
+		"nome": "Arraiá da Casa do Ceará"
+	},		
 	{
 		"url": "https://saojudastadeu.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/saojudastadeu_app2.png",
