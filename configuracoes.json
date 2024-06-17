@@ -10,9 +10,9 @@
 		"nome": "Arraiá da Sagrada Família"
 	},		
 	{
-		"url": "https://cbmdf.paxservicos.com.br/apiJPA",
-		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/cbmdf.png",
-		"nome": "Arraial dos Bombeiros"
+		"url": "https://capelaniacbmdf.paxservicos.com.br/apiJPA",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/capelaniacbmdf.png",
+		"nome": "Arraiá da Capelania"
 	},	
 	{
 		"url": "https://liceubrasilia.paxservicos.com.br/apiJPA",
