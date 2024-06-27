@@ -10,6 +10,11 @@
 		"nome": "Arraiá do CCB"
 	},
 	{
+		"url": "https://santissimatrindade.paxservicos.com.br/apiJPA",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/santissimatrindade_junina_app.png",
+		"nome": "Arraiá de Todos os Santos"
+	},			
+	{
 		"url": "https://nossasenhoraaparecidafercal.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/nossasenhoraaparecidafercal.png",
 		"nome": "Arraiá da Aparecida"
