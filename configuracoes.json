@@ -1,14 +1,9 @@
 [
 	{
-		"url": "https://nossasenhoradasaude.paxservicos.com.br/apiJPA",
-		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/nossasenhoradasaude_app3.png",
-		"nome": "Arraiá da Saúde"
-	},
-	{
 		"url": "https://barracas.paxservicos.com.br/apiJPA",
-		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/countryclubebrasilia.png",
-		"nome": "Arraiá do CCB"
-	},
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/ressurreicao.png",
+		"nome": "Arraiá da Ressu"
+	},			
 	{
 		"url": "https://santissimatrindade.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/santissimatrindade_junina_app.png",
@@ -28,7 +23,17 @@
 		"url": "https://barracas.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/barracas_pax.png",
 		"nome": "Treinamento PAX"
-	},			
+	},		
+	{
+		"url": "https://nossasenhoradasaude.paxservicos.com.br/apiJPA",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/nossasenhoradasaude_app3.png",
+		"nome": "Arraiá da Saúde"
+	},
+	{
+		"url": "https://barracas.paxservicos.com.br/apiJPA",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/countryclubebrasilia.png",
+		"nome": "Arraiá do CCB"
+	},		
 	{
 		"url": "https://sagradafamilia.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/sagradafamilia_app.png",
