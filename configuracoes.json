@@ -18,7 +18,12 @@
 		"url": "https://nossasenhoraaparecidafercal.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/nossasenhoraaparecidafercal.png",
 		"nome": "Arraiá da Aparecida"
-	},		
+	},
+	{
+		"url": "https://pnsnazarelagosul.paxservicos.com.br/apiJPA",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/pnsnazarelagosul_app.png",
+		"nome": "Círio de Nazaré 2024"
+	},			
 	{
 		"url": "https://barracas.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/barracas_pax.png",
