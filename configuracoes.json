@@ -1,10 +1,5 @@
 [
 	{
-		"url": "https://barracas.paxservicos.com.br/apiJPA",
-		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/ressurreicao.png",
-		"nome": "Arraiá da Ressu"
-	},			
-	{
 		"url": "https://santissimatrindade.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/santissimatrindade_junina_app.png",
 		"nome": "Arraiá de Todos os Santos"
@@ -36,27 +31,12 @@
 	},
 	{
 		"url": "https://barracas.paxservicos.com.br/apiJPA",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/ressurreicao.png",
+		"nome": "Arraiá da Ressu"
+	},		
+	{
+		"url": "https://barracas.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/countryclubebrasilia.png",
 		"nome": "Arraiá do CCB"
-	},		
-	{
-		"url": "https://sagradafamilia.paxservicos.com.br/apiJPA",
-		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/sagradafamilia_app.png",
-		"nome": "Arraiá da Sagrada Família"
-	},			
-	{
-		"url": "https://capelaniacbmdf.paxservicos.com.br/apiJPA",
-		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/capelaniacbmdf_app.png",
-		"nome": "Arraiá da Capelania"
-	},
-	{
-		"url": "https://liceubrasilia.paxservicos.com.br/apiJPA",
-		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/liceubrasilia_app.png",
-		"nome": "Arraial do Colégio Liceu"
-	},		
-	{
-		"url": "https://casadoceara.paxservicos.com.br/apiJPA",
-		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/casadoceara_app.png",
-		"nome": "Arraiá da Casa do Ceará"
-	}		
+	}	
 ]
