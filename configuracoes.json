@@ -5,6 +5,11 @@
 		"nome": "Arraiá de Todos os Santos"
 	},
 	{
+		"url": "https://catedralanglicanadebrasilia.paxservicos.com.br/apiJPA",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/catedralanglicanadebrasilia_app.png",
+		"nome": "Arraiá Anglicano"
+	},
+	{
 		"url": "https://movimentoescaladabsb.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/movimentoescaladabsb_app.png",
 		"nome": "Movimento Escalada"
