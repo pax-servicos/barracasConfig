@@ -1,15 +1,5 @@
 [
 	{
-		"url": "https://santissimatrindade.paxservicos.com.br/apiJPA",
-		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/santissimatrindade_junina_app.png",
-		"nome": "Arraiá de Todos os Santos"
-	},
-	{
-		"url": "https://catedralanglicanadebrasilia.paxservicos.com.br/apiJPA",
-		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/catedralanglicanadebrasilia_app.png",
-		"nome": "Arraiá Anglicano"
-	},
-	{
 		"url": "https://movimentoescaladabsb.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/movimentoescaladabsb_app.png",
 		"nome": "Movimento Escalada"
@@ -28,7 +18,17 @@
 		"url": "https://barracas.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/barracas_pax.png",
 		"nome": "Treinamento PAX"
-	},		
+	},
+	{
+		"url": "https://santissimatrindade.paxservicos.com.br/apiJPA",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/santissimatrindade_junina_app.png",
+		"nome": "Arraiá de Todos os Santos"
+	},
+	{
+		"url": "https://catedralanglicanadebrasilia.paxservicos.com.br/apiJPA",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/catedralanglicanadebrasilia_app.png",
+		"nome": "Arraiá Anglicano"
+	},			
 	{
 		"url": "https://nossasenhoradasaude.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/nossasenhoradasaude_app3.png",
