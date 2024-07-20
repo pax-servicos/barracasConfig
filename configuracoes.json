@@ -10,6 +10,11 @@
 		"nome": "Arraiá da Aparecida"
 	},
 	{
+		"url": "https://paroquiasaomateusdf.paxservicos.com.br/apiJPA",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/paroquiasaomateusdf_app.png",
+		"nome": "Arraiá São Mateus"
+	},	
+	{
 		"url": "https://pnsnazarelagosul.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/pnsnazarelagosul_app.png",
 		"nome": "Círio de Nazaré 2024"
