@@ -13,7 +13,12 @@
 		"url": "https://paroquiasaomateusdf.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/paroquiasaomateusdf_app.png",
 		"nome": "Arraiá São Mateus"
-	},	
+	},
+	{
+		"url": "https://santamariadospobres.paxservicos.com.br/apiJPA",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/santamariadospobres_app.png",
+		"nome": "Festa da Padroeira - Costelada"
+	},			
 	{
 		"url": "https://pnsnazarelagosul.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/pnsnazarelagosul_app.png",
