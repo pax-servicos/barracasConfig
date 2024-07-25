@@ -15,10 +15,16 @@
 		"nome": "Arraiá do Crente Oxênte"
 	},			
 	{
+		"url": "https://sagradafamilia.paxservicos.com.br/apiJPA",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/sagradafamilia.png",
+		"nome": "Jantar Sagrada Família"
+	},	
+	{
 		"url": "https://santamariadospobres.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/santamariadospobres_app.png",
 		"nome": "Festa da Padroeira - Costelada"
 	},
+
 	{
 		"url": "https://pnsnazarelagosul.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/pnsnazarelagosul_app.png",
