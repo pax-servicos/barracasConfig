@@ -10,6 +10,11 @@
 		"nome": "Arraiá da Imaculada"
 	},		
 	{
+		"url": "https://bracofortedosenhor.paxservicos.com.br/apiJPA",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/bracofortedosenhor_app.png",
+		"nome": "Arraiá do Crente Oxênte"
+	},			
+	{
 		"url": "https://santamariadospobres.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/santamariadospobres_app.png",
 		"nome": "Festa da Padroeira - Costelada"
