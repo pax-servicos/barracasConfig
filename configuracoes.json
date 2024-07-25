@@ -38,30 +38,5 @@
 		"url": "https://nossasenhoraaparecidafercal.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/nossasenhoraaparecidafercal.png",
 		"nome": "Arraiá da Aparecida"
-	},	
-	{
-		"url": "https://santissimatrindade.paxservicos.com.br/apiJPA",
-		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/santissimatrindade_junina_app.png",
-		"nome": "Arraiá de Todos os Santos"
-	},
-	{
-		"url": "https://catedralanglicanadebrasilia.paxservicos.com.br/apiJPA",
-		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/catedralanglicanadebrasilia_app.png",
-		"nome": "Arraiá Anglicano"
-	},			
-	{
-		"url": "https://nossasenhoradasaude.paxservicos.com.br/apiJPA",
-		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/nossasenhoradasaude_app3.png",
-		"nome": "Arraiá da Saúde"
-	},
-	{
-		"url": "https://barracas.paxservicos.com.br/apiJPA",
-		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/ressurreicao.png",
-		"nome": "Arraiá da Ressu"
-	},		
-	{
-		"url": "https://barracas.paxservicos.com.br/apiJPA",
-		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/countryclubebrasilia.png",
-		"nome": "Arraiá do CCB"
-	}	
+	}
 ]
