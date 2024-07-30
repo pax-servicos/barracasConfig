@@ -1,23 +1,14 @@
 [
 	{
-		"url": "https://paroquiasaomateusdf.paxservicos.com.br/apiJPA",
-		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/paroquiasaomateusdf_app.png",
-		"nome": "Arraiá São Mateus"
-	},
-	{
 		"url": "https://imaculadaconceicao.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/imaculadaconceicao_app.png",
 		"nome": "Arraiá da Imaculada"
 	},		
-	{
-		"url": "https://bracofortedosenhor.paxservicos.com.br/apiJPA",
-		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/bracofortedosenhor_app.png",
-		"nome": "Arraiá do Crente Oxênte"
-	},			
+	
 	{
 		"url": "https://sagradafamilia.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/sagradafamilia_app.png",
-		"nome": "Jantar Sagrada Família"
+		"nome": "Almoço Sagrada Família"
 	},	
 	{
 		"url": "https://santamariadospobres.paxservicos.com.br/apiJPA",
@@ -35,6 +26,16 @@
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/barracas_pax.png",
 		"nome": "Treinamento PAX"
 	},
+	{
+		"url": "https://paroquiasaomateusdf.paxservicos.com.br/apiJPA",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/paroquiasaomateusdf_app.png",
+		"nome": "Arraiá São Mateus"
+	},	
+	{
+		"url": "https://bracofortedosenhor.paxservicos.com.br/apiJPA",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/bracofortedosenhor_app.png",
+		"nome": "Arraiá do Crente Oxênte"
+	},		
 	{
 		"url": "https://movimentoescaladabsb.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/movimentoescaladabsb_app.png",
