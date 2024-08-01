@@ -1,11 +1,5 @@
 [
 	{
-		"url": "https://imaculadaconceicao.paxservicos.com.br/apiJPA",
-		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/imaculadaconceicao_app.png",
-		"nome": "Arraiá da Imaculada"
-	},		
-	
-	{
 		"url": "https://sagradafamilia.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/sagradafamilia_app.png",
 		"nome": "Almoço Sagrada Família"
