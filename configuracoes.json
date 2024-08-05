@@ -9,7 +9,6 @@
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/santamariadospobres_app.png",
 		"nome": "Festa da Padroeira - Costelada"
 	},
-
 	{
 		"url": "https://pnsnazarelagosul.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/pnsnazarelagosul_app.png",
@@ -21,23 +20,8 @@
 		"nome": "Treinamento PAX"
 	},
 	{
-		"url": "https://paroquiasaomateusdf.paxservicos.com.br/apiJPA",
-		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/paroquiasaomateusdf_app.png",
-		"nome": "Arraiá São Mateus"
-	},	
-	{
-		"url": "https://bracofortedosenhor.paxservicos.com.br/apiJPA",
-		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/bracofortedosenhor_app.png",
-		"nome": "Arraiá do Crente Oxênte"
-	},		
-	{
-		"url": "https://movimentoescaladabsb.paxservicos.com.br/apiJPA",
-		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/movimentoescaladabsb_app.png",
-		"nome": "Movimento Escalada"
-	},				
-	{
-		"url": "https://nossasenhoraaparecidafercal.paxservicos.com.br/apiJPA",
-		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/nossasenhoraaparecidafercal.png",
-		"nome": "Arraiá da Aparecida"
+		"url": "https://espacocult.paxservicos.com.br/apiJPA",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/espacocult_app.png",
+		"nome": "Espaço CULT"
 	}
 ]
