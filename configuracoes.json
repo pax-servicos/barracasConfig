@@ -10,6 +10,11 @@
 		"nome": "Festa da Padroeira - Costelada"
 	},
 	{
+		"url": "https://bcc.paxservicos.com.br/apiJPA",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/bcc_app.png",
+		"nome": "Brasília Country Club"
+	},
+	{
 		"url": "https://pnsnazarelagosul.paxservicos.com.br/apiJPA",
 		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/pnsnazarelagosul_app.png",
 		"nome": "Círio de Nazaré 2024"
