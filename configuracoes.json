@@ -5,11 +5,6 @@
 		"nome": "Festa da Padroeira - Costelada"
 	},
 	{
-		"url": "https://bcc.paxservicos.com.br/apiJPA",
-		"logo": "https://d3jqk4faa8uzpj.cloudfront.net/img/bcc_app.png",
-		"nome": "Brasília Country Club"
-	},
-	{
 		"url": "https://sagradafamilia.paxservicos.com.br/apiJPA",
 		"logo": "https://d3jqk4faa8uzpj.cloudfront.net/img/sagradafamilia_app.png",
 		"nome": "Almoço Sagrada Família"
