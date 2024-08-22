@@ -23,10 +23,5 @@
 		"url": "https://espacocult.paxservicos.com.br/apiJPA",
 		"logo": "https://d3jqk4faa8uzpj.cloudfront.net/img/espacocult_app.png",
 		"nome": "Espaço CULT"
-	},
-	{
-		"url": "https://barracas.paxservicos.com.br/apiJPA",
-		"logo": "https://d3jqk4faa8uzpj.cloudfront.net/img/barracas_pax.png",
-		"nome": "Teste Acentuação"
 	}	
 ]
