@@ -1,19 +1,14 @@
 [
 	{
-		"url": "https://santamariadospobres.paxservicos.com.br/apiJPA",
-		"logo": "https://d3jqk4faa8uzpj.cloudfront.net/img/santamariadospobres_app.png",
-		"nome": "Festa da Padroeira - Costelada"
+		"url": "https://pnsnazarelagosul.paxservicos.com.br/apiJPA",
+		"logo": "https://d3jqk4faa8uzpj.cloudfront.net/img/pnsnazarelagosul_app.png",
+		"nome": "Círio de Nazaré 2024"
 	},
 	{
 		"url": "https://sagradafamilia.paxservicos.com.br/apiJPA",
 		"logo": "https://d3jqk4faa8uzpj.cloudfront.net/img/sagradafamilia_app.png",
 		"nome": "Almoço Sagrada Família"
-	},	
-	{
-		"url": "https://pnsnazarelagosul.paxservicos.com.br/apiJPA",
-		"logo": "https://d3jqk4faa8uzpj.cloudfront.net/img/pnsnazarelagosul_app.png",
-		"nome": "Círio de Nazaré 2024"
-	},			
+	},
 	{
 		"url": "https://barracas.paxservicos.com.br/apiJPA",
 		"logo": "https://d3jqk4faa8uzpj.cloudfront.net/img/barracas_pax.png",
@@ -23,5 +18,5 @@
 		"url": "https://espacocult.paxservicos.com.br/apiJPA",
 		"logo": "https://d3jqk4faa8uzpj.cloudfront.net/img/espacocult_app.png",
 		"nome": "Espaço CULT"
-	}	
+	}
 ]
