@@ -1,15 +1,5 @@
 [
 	{
-		"url": "https://pnsnazarelagosul.paxservicos.com.br/apiJPA",
-		"logo": "https://d3jqk4faa8uzpj.cloudfront.net/img/pnsnazarelagosul_app.png",
-		"nome": "Círio de Nazaré 2024"
-	},
-	{
-		"url": "https://sagradafamilia.paxservicos.com.br/apiJPA",
-		"logo": "https://d3jqk4faa8uzpj.cloudfront.net/img/sagradafamilia_app.png",
-		"nome": "Almoço Sagrada Família"
-	},
-	{
 		"url": "https://barracas.paxservicos.com.br/apiJPA",
 		"logo": "https://d3jqk4faa8uzpj.cloudfront.net/img/barracas_pax.png",
 		"nome": "Treinamento PAX"
