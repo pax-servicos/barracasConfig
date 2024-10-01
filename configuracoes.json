@@ -1,5 +1,10 @@
 [
 	{
+		"url": "https://catedral.paxservicos.com.br/apiJPA",
+		"logo": "https://d3jqk4faa8uzpj.cloudfront.net/img/catedral_app.png",
+		"nome": "Catedral Metropolitana Brasília"
+	},	
+	{
 		"url": "https://barracas.paxservicos.com.br/apiJPA",
 		"logo": "https://d3jqk4faa8uzpj.cloudfront.net/img/barracas_pax.png",
 		"nome": "Treinamento PAX"
