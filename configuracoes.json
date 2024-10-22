@@ -13,10 +13,5 @@
 		"url": "https://liceubrasilia.paxservicos.com.br/apiJPA",
 		"logo": "https://d3jqk4faa8uzpj.cloudfront.net/img/liceubrasilia_app.png",
 		"nome": "Colégio Liceu"
-	},
-	{
-		"url": "https://catedral.paxservicos.com.br/apiJPA",
-		"logo": "https://d3jqk4faa8uzpj.cloudfront.net/img/catedral_app.png",
-		"nome": "Catedral Metropolitana Brasília"
 	}		
 ]
