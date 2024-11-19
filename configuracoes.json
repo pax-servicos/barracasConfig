@@ -1,5 +1,15 @@
 [
 	{
+		"url": "https://nossasenhoradasgracas.paxservicos.com.br/apiJPA",
+		"logo": "https://d3jqk4faa8uzpj.cloudfront.net/img/nossasenhoradasgracas_app.png",
+		"nome": "Festa da Padroeira"
+	},
+	{
+		"url": "https://imaculadaconceicao.paxservicos.com.br/apiJPA",
+		"logo": "https://d3jqk4faa8uzpj.cloudfront.net/img/imaculadaconceicao_app.png",
+		"nome": "Festa da Imaculada"
+	},		
+	{
 		"url": "https://barracas.paxservicos.com.br/apiJPA",
 		"logo": "https://d3jqk4faa8uzpj.cloudfront.net/img/barracas_pax.png",
 		"nome": "Treinamento PAX"
