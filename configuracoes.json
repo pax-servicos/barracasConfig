@@ -5,19 +5,9 @@
 		"nome": "Quermesse da Guadalupe"
 	},	
 	{
-		"url": "https://imaculadaconceicao.paxservicos.com.br/apiJPA",
-		"logo": "https://d3jqk4faa8uzpj.cloudfront.net/img/imaculadaconceicao_app.png",
-		"nome": "Festa da Imaculada"
-	},		
-	{
 		"url": "https://barracas.paxservicos.com.br/apiJPA",
 		"logo": "https://d3jqk4faa8uzpj.cloudfront.net/img/barracas_pax.png",
 		"nome": "Treinamento PAX"
-	},
-	{
-		"url": "https://espacocult.paxservicos.com.br/apiJPA",
-		"logo": "https://d3jqk4faa8uzpj.cloudfront.net/img/espacocult_app.png",
-		"nome": "Espaço CULT"
 	},
 	{
 		"url": "https://liceubrasilia.paxservicos.com.br/apiJPA",
