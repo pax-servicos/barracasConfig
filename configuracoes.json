@@ -1,10 +1,5 @@
 [
 	{
-		"url": "https://guadalupe.paxservicos.com.br/apiJPA",
-		"logo": "https://d3jqk4faa8uzpj.cloudfront.net/img/guadalupe_app.png",
-		"nome": "Quermesse da Guadalupe"
-	},	
-	{
 		"url": "https://barracas.paxservicos.com.br/apiJPA",
 		"logo": "https://d3jqk4faa8uzpj.cloudfront.net/img/barracas_pax.png",
 		"nome": "Treinamento PAX"
